@@ -1,0 +1,11 @@
+{
+    "name": "PeepCode-Backbone-Demo-App"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "> 0"
+  }
+  , "scripts": {
+    "start": "npm install && node server.js"
+  }  
+}
